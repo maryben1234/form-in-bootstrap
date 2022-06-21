@@ -1,0 +1,80 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    width: auto;
+}
+.bnt{
+    background-color: red;
+}
+
+main{
+    background-color: skyblue;
+    height: 150vh;
+}
+
+
+.inputs1{
+    width: 80%;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    margin-left: 10px;
+}
+.inputs2{
+    width: 80%;
+    border-top:none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    margin-left: 25px;
+}
+.form1{
+    width: 400px;
+}
+.bnt2{
+    background-image: linear-gradient(purple, pink);
+    width: 400px;
+    height: 70px;
+}
+.form2{
+    width:400px ;
+}
+.inputs4{
+    width:80%;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    margin-left: 15px;
+}
+.inputs4::placeholder{
+    color: white;
+}
+   
+.inputs5{
+    width:80%;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    margin-left: 25px;
+    background-color: none;
+}
+.inputs5::placeholder{
+    color: white;
+}
+.bnt4{
+    width: 400px;
+    height: 70px; 
+}
+.text-center{
+    color: white;
+}
+.div4{
+    color: white;
+}
+.div-5{
+    color: white;
+}
